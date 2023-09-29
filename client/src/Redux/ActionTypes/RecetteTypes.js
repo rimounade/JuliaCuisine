@@ -1,0 +1,5 @@
+export const GETRECETTES = "GETRECETTES"
+export const ADDRECETTE = "ADDRECETTE"
+export const FAIL = "FAIL"
+export const GETONERECETTE ="GETONERECETTE"
+export const GETUSERRECETTE ="GETUSERRECETTE"
